@@ -1,0 +1,11 @@
+C:\Hqlite\teste-bracnh\TesteBranch\bin\Debug\netcoreapp2.2\TesteBranch.deps.json
+C:\Hqlite\teste-bracnh\TesteBranch\bin\Debug\netcoreapp2.2\TesteBranch.runtimeconfig.json
+C:\Hqlite\teste-bracnh\TesteBranch\bin\Debug\netcoreapp2.2\TesteBranch.runtimeconfig.dev.json
+C:\Hqlite\teste-bracnh\TesteBranch\bin\Debug\netcoreapp2.2\TesteBranch.dll
+C:\Hqlite\teste-bracnh\TesteBranch\bin\Debug\netcoreapp2.2\TesteBranch.pdb
+C:\Hqlite\teste-bracnh\TesteBranch\obj\Debug\netcoreapp2.2\TesteBranch.csprojAssemblyReference.cache
+C:\Hqlite\teste-bracnh\TesteBranch\obj\Debug\netcoreapp2.2\TesteBranch.csproj.CoreCompileInputs.cache
+C:\Hqlite\teste-bracnh\TesteBranch\obj\Debug\netcoreapp2.2\TesteBranch.AssemblyInfoInputs.cache
+C:\Hqlite\teste-bracnh\TesteBranch\obj\Debug\netcoreapp2.2\TesteBranch.AssemblyInfo.cs
+C:\Hqlite\teste-bracnh\TesteBranch\obj\Debug\netcoreapp2.2\TesteBranch.dll
+C:\Hqlite\teste-bracnh\TesteBranch\obj\Debug\netcoreapp2.2\TesteBranch.pdb
